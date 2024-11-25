@@ -75,3 +75,12 @@ Cisco Packet Tracer 6.2sv/
 *.regtrans-ms
 Ticket_Reservation_System_team1/
 
+
+# .gitignore 파일에 추가할 내용
+
+.bash_history
+.lesshst
+.packettracer/
+.ssh/
+Contacts/
+
