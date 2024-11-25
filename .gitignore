@@ -32,3 +32,46 @@ eclipse-workspace/
 
 # 기타
 even_or_odd_checker.py
+
+# System files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+ntuser.*
+AppData/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+
+# Temporary and cache files
+.cache/
+.viminfo
+.viminfo.tmp
+
+# IDE specific
+.vscode/
+.eclipse/
+.packettracer/
+.redhat/
+
+# Git configuration files
+.gitconfig
+.gitignore.txt
+
+# Cisco Packet Tracer
+Cisco Packet Tracer 6.2sv/
+
+# Miscellaneous
+*.blf
+*.regtrans-ms
+Ticket_Reservation_System_team1/
+
