@@ -9,41 +9,6 @@ dist/
 *.egg-info/
 *.egg
 .Python
-*.py,cover
-.coverage
-.coverage.*
-
-# Unit test / coverage
-.tox/
-.nox/
-.cache/
-.pytest_cache/
-.hypothesis/
-
-# Django
-db.sqlite3
-db.sqlite3-journal
-*.log
-
-# Flask
-instance/
-.webassets-cache
-
-# Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
-# Spyder
-.spyderproject
-.spyproject
-
-# PyCharm
-.idea/
 
 # Windows 시스템 파일
 Application Data/
@@ -53,4 +18,17 @@ My Documents/
 NetHood/
 PrintHood/
 Recent/
-Send
+SendTo/
+Templates/
+ntuser.ini
+
+# 개발 환경 파일
+.cache/
+.vscode/
+.m2/
+.p2/
+.redhat/
+eclipse-workspace/
+
+# 기타
+even_or_odd_checker.py
